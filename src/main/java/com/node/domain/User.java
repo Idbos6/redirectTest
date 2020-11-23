@@ -10,6 +10,7 @@ public class User {
     private String regTime;
     private String specialty;
     private String remark;
+    private String haha;
 
     @Override
     public String toString() {
